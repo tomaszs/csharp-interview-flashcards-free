@@ -3,13 +3,13 @@
 [![Anki](https://img.shields.io/badge/Anki-deck-blue?style=flat-square)](https://apps.ankiweb.net/)
 [![Cards](https://img.shields.io/badge/cards-100-green?style=flat-square)](#deck-contents)
 [![License](https://img.shields.io/badge/license-personal%20use%20only-red?style=flat-square)](LICENSE)
-[![Download](https://img.shields.io/badge/download-.apkg-2563eb?style=flat-square)](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg)
+[![Download](https://img.shields.io/badge/download-.apkg-2563eb?style=flat-square)](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg)
 
 ![C# Interview Flashcards Free](assets/hero-qa-cards.png)
 
 **Walk into your C# interview prepared.** 100 curated questions with clear, structured answers you can recall under pressure. Study on your phone, tablet, or computer.
 
-**[Download `C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg)** · free for personal study · no GitHub account required
+**[Download `C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg)** · free for personal study · no GitHub account required
 
 ## Table of contents
 
@@ -34,7 +34,7 @@
 ## Get started
 
 1. **Install Anki** for your device ([see links below](#anki-apps-by-platform)).
-2. **[Download `C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg)** from the latest release.
+2. **[Download `C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg)** from the latest release.
 3. **Import** the file in Anki on the same device and start studying.
 
 ## Download
@@ -42,7 +42,7 @@
 | | |
 | --- | --- |
 | **Latest release** | [v2026.1](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/latest) |
-| **Direct .apkg** | [C#_Interview_2026.apkg](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg) |
+| **Direct .apkg** | [C#_Interview_2026.apkg](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg) |
 | **File size** | ~1 MB (varies by deck) |
 | **Cost** | Free for personal study |
 | **Account** | No GitHub account required |
@@ -147,26 +147,26 @@ Desktop Anki **2.1.49+** or newer. AnkiMobile and AnkiDroid are kept up to date 
 
 ## Install on your device
 
-Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg), then follow the steps for your platform. More detail: [Anki importing guide](https://docs.ankiweb.net/importing.html).
+Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg), then follow the steps for your platform. More detail: [Anki importing guide](https://docs.ankiweb.net/importing.html).
 
 ### Windows, macOS, or Linux
 
 1. Install [Anki](https://apps.ankiweb.net/).
-2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg).
+2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg).
 3. In Anki: **File → Import** and select the file (or open the downloaded file).
 4. Confirm the deck name **C# Interview 2026** and start with the intro card.
 
 ### iPhone or iPad (AnkiMobile)
 
 1. Install [AnkiMobile](https://apps.apple.com/app/ankimobile-flashcards/id373493387) from the App Store.
-2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg) in Safari (or another browser).
+2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg) in Safari (or another browser).
 3. Open the downloaded file and choose **Open in Anki** / import into AnkiMobile.
 4. Start with the intro card. **Flag** cards you miss.
 
 ### Android (AnkiDroid)
 
 1. Install [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) from Google Play.
-2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/C#_Interview_2026.apkg).
+2. Download [`C#_Interview_2026.apkg`](https://github.com/tomaszs/csharp-interview-flashcards-free/releases/download/v2026.1/CSharp_Interview_2026.apkg).
 3. Open the file from your downloads or use **Import** in AnkiDroid.
 4. Confirm the deck name **C# Interview 2026** and start studying.
 
